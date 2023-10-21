@@ -1,8 +1,17 @@
-.parent {
-    background-color: blue;
-}
-
 .center{
     display: grid;
     place-items: center;
+}
+
+* {
+    background-color: black;
+    color: azure;
+}
+
+#hola {
+    color: aqua;
+}
+
+[rancio="sii"] {
+    color: yellow;
 }
