@@ -1,17 +1,23 @@
+/*
 .center{
     display: grid;
     place-items: center;
-}
+    text-align: center;
+}*/
 
 * {
-    background-color: black;
-    color: azure;
+    background-color: whitesmoke ;
+    color: darkblue;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
 }
 
-#hola {
-    color: aqua;
+.main {
+    display: flex;
+
 }
 
-[rancio="sii"] {
-    color: yellow;
+[rancio="sii"] li {
+    color: darkgoldenrod;
 }
