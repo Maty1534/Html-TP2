@@ -17,6 +17,14 @@ header ul{
 }
 
 .header__item {
+    
+    background-color: #232226;
+    color: #FFD700;
+    
+}
+
+header ul a {
+    text-decoration: none;
     width: 175px;
     text-align: center;
     list-style: none;
@@ -26,14 +34,8 @@ header ul{
     border-radius: 10px;
 }
 
-.header__item a {
-    background-color: #232226;
-    color: #FFD700;
-    text-decoration: none;
-}
-
-.header__item a:hover{
-    color: greenyellow;
+.header__item:hover{
+    color: rgb(149, 224, 36);
 }
 
 .contenedor {
