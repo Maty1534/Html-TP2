@@ -52,6 +52,7 @@ header ul a {
     flex: 0 0 100%; /* Evita que se estire horizontalmente y ocupe todo el ancho disponible */
     padding: 1% 5%;
     text-align: center;
+    box-shadow: #232226;
 }
 
 article, aside, #Inicio{
@@ -60,6 +61,7 @@ article, aside, #Inicio{
     margin: 2%;
     flex: 1;
     padding: 0.5%;
+    box-shadow: #232226;
 }
 
 article ol li, aside ul li {
